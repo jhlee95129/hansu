@@ -5,7 +5,7 @@
 
 ## 라이브 데모
 
-https://polaris-wrtn.vercel.app
+https://polaris-jhlee95129.vercel.app
 
 ## One Pager
 
